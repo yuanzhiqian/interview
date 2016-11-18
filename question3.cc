@@ -1,0 +1,1 @@
+//write a strcpy function
